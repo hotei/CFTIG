@@ -6,11 +6,14 @@
 package main
 
 import (
-	_ "github.com/hotei/mdr"	// utility function pkg
-	_ "github.com/hotei/bits"	// test import
-	)
+	_ "github.com/hotei/mdserver" // markdown document server
+	_ "github.com/hotei/mdr"  // utility function pkg
+)
 
+/*
+
+*/
 
 func main() {
-	
+
 }
