@@ -14,6 +14,7 @@ import (
 	_ "github.com/hotei/mdserver" // markdown document server
 	_ "github.com/hotei/mdr"  // utility function pkg
 	_ "github.com/hotei/ls256"	// list files with SHA256 
+	_ "github.com/hotei/prune256"	// list, count optionally delete based on RE2
 )
 
 /*
